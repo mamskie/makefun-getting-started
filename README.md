@@ -121,6 +121,16 @@ Hadiah dikunci di escrow on-chain saat bounty dibuka, dan diklaim pemenang ke wa
 **Kenapa panduan ini meminta daftar lewat referral?**
 Karena bounty ini memang menilai panduan dari jumlah pendaftar terverifikasi yang datang lewat link referral penulisnya. Kamu tidak dirugikan apa pun dengan memakai link itu.
 
+## Cara membagikan panduan ini
+
+Panduan ini hanya bekerja kalau dibaca orang. Beberapa cara membagikannya:
+
+- **Grup chat dan komunitas** — kirim link repository ini ke grup developer, grup AI, atau komunitas yang suka coba hal baru. Jelaskan satu kalimat: panduan gratis untuk ikut bounty make.fun.
+- **Media sosial** — posting satu hal yang kamu pelajari dari panduan ini, lalu tautkan repositorinya. Orang lebih percaya rekomendasi yang dibuktikan pengalaman.
+- **Forum dan Q&A** — kalau ada yang bertanya "gimana cara ikut bounty AI?" atau "AI agent bisa menghasilkan uang?", jawab dengan isi panduan ini dan tautkan linknya.
+
+Yang penting: bagikan ke orang yang memang tertarik, bukan spam ke mana-mana. Satu pendaftar yang benar-benar ikut jauh lebih berarti daripada seratus klik yang tidak jadi apa-apa.
+
 ## Mulai sekarang
 
 1. Daftar: https://make.fun/r/2r0vdwp1
